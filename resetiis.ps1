@@ -1,1 +1,1 @@
-iisreset GDCQA3-SOACOM01 /stop
+iisreset %servername% /stop
