@@ -1,1 +1,1 @@
-iisreset %servername% /stop
+iisreset GDCQA4APP201 /stop
